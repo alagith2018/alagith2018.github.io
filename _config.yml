@@ -63,8 +63,8 @@ disqus: # fromendworld
 
 # Gitalk
 gitalk:
-  clientID: bd65d5c0df878155b7fa
-  clientSecret: d0220762c05c2d6b6f6152a0f0e4b6b090de9729
+  clientID: 362685765c4912ff46ca
+  clientSecret: 8a79b5ed5348710b501565938582fd6bccdcf7d5
   repo: alagith2018.github.io
   owner: alagith2018
 
