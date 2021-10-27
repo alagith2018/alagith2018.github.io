@@ -24,15 +24,15 @@ $base-font: "Noto Serif","PT Serif",source-han-serif-sc, "Source Han Serif SC", 
 $code-font: 'Menlo', 'Courier New', 'Monaco', 'Spoqa Han Sans', monospace;
 
 // Font sizes
-$base-font-size: 16px;
-$small-font-size: 14px;
+$base-font-size: 20px;
+$small-font-size: 16px;
 
 // Colors
-$base-color: $oc-gray-8;
+$base-color: $oc-gray-9;
 $base-lighten-color: $oc-gray-6;
 $base-lightener-color: $oc-gray-4;
 
-$background-color: $oc-gray-0;
+$background-color: $oc-teal-2;
 $background-lighten-color: #f8f9fa6b;
 
 $text-color: $base-color;
@@ -55,11 +55,11 @@ $footnote-link-background-over-color: $oc-gray-1;
 // $selection-color: $oc-black;
 $selection-background-color: $oc-gray-3;
 
-$tag-index-label-background-color: $oc-gray-2;
-$tag-index-count-background-color: #868e961a;
+$tag-index-label-background-color: $oc-red-3;
+$tag-index-count-background-color: $oc-teal-0;
 
-$footer-border-color: $oc-gray-2;
-$footer-background-color: $oc-gray-0;
+$footer-border-color: $oc-teal-0;
+$footer-background-color: $oc-teal-0;
 
 // List
 $li-bottom-space: 0.4em;
